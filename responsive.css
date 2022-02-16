@@ -1,0 +1,139 @@
+
+@media (max-width:768px){
+    header .logo{
+        width: 40%;
+    }
+    .section1 .Green-solar-area{
+         position:static;
+         bottom:0px;
+         left:0;
+     }
+     .banner-area .banner-right{
+        width: 90%;
+        margin: 50px auto;
+
+    }
+        
+    .section2{
+        padding: 15px 0;
+     }
+    .whyus-area{
+        padding: 20px 0;
+    }
+    .faq{
+        width: 90%;
+        margin:  0 auto;
+    }
+    .faq h3{
+        width: 90%;
+        font-size: 22px;
+        font-weight: 600;
+    }
+    .more-clients{
+        width: 90%;
+        margin: 0 auto;
+        display: block;
+       padding-left: 30px;
+    }
+    .banner-area .banner-right{
+        width: 100%;
+        color: white;
+        text-shadow: 2px 2px black;
+        margin: 150px auto;
+        text-align: center;
+    }
+    .banner-area .banner-right p{
+        font-size: 18px;
+        margin: 10px 0;
+    }
+    header .navicon{
+        width: 30px;
+        height: 20px;
+        position: absolute;
+        top: 35px;
+        right: 15px;
+        display: block;
+    }
+    header .menu{
+        display: none;
+    }
+    .section1 .Green-solar-area{
+        position: static;
+    }
+    
+    .section1 .container{
+        width: 100%;
+        padding: 50px 0;
+        background-color: white;
+        position: static;
+        top: 0px;
+        border-radius:0px;
+        -webkit-border-radius:;
+        -moz-border-radius:;
+        -ms-border-radius:;
+        -o-border-radius:;
+        box-shadow: none;
+    }
+    
+    .section1 .smart-solar-area img{
+        width: 80px;
+        height: 80px;
+    }
+    .section1 .col-12{
+        margin: 15px 0;
+    }
+    .section1{
+        width: 100%;
+        padding: 15px 0;
+        margin: 0 auto;
+        position: relative;
+        margin-bottom: 70px;
+    }
+    .section4 .experience{
+        width: 70%;
+        height: 55px;
+        background-color: green;
+        position: absolute;
+        bottom: 0;
+        left: 15%;
+        bottom: -20px;
+        z-index: ;
+    }
+    .get-start{
+        width: 100%;
+        padding: 25px 0px;
+        margin-bottom: 0px;
+    }
+    .get-start .start{
+        width: 100%;
+        position: static;
+        
+    }
+    .banner-area{
+        position: relative;
+    }
+    .banner-area .banner-right{
+        width: 100%;
+        position: absolute;
+        top: -55%;
+        left: 0%;
+        font-size: 20px;
+    }
+    .banner-area .banner-right h3{
+       font-size: 18px
+    }
+    .banner-area .banner-right h1{
+     font-size: 20px;
+    }
+    .banner-area .banner-right p{
+        font-size: 16px;
+       
+    }
+    .banner-area .banner-right button{
+        padding:1px 6px;
+        text-transform:capitalize;
+        font-weight: 300;
+        font-size: 15px;
+    }
+    
+}
